@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is an e-commerce site that expects you to log in first before you can add products to cart
 
 ## Available Scripts
 
